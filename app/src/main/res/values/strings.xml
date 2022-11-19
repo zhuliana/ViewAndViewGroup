@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ViewAndViewGroup</string>
+    <string name="content_text">Xiaomi resmi meluncurkan varian terbaru seri Redmi Note 10, yakni Redmi Note 10s, ke Tanah Air. Ponsel ini mengisi jajaran seri Redmi Note 10 reguler yang sebelumnya diluncurkan di Indonesia.
+Salah satu keunggulan besar Redmi Note 10s adalah layarnya yang sudah dibekali panel berjenis Super AMOLED berukuran 6,43 inci.</string>
+    <string name="content_specs_display">
+6.43 inches\nAMOLED, 450 nits\nCorning Gorilla Glass 3</string>
+    <string name="content_specs_size">
+6.32 x 2.93 x 0.33 inches\n160.5 x 74.5 x 8.3 mm</string>
+    <string name="content_specs_battery">
+Li-Po 5000 mAh, non-removable\n33W Fast Charging</string>
+    <string name="content_specs_processor">
+Android 11, MIUI 12.5\nMediatek Helio G95 (12 nm)\nOcta-core (2x2.05 GHz Cortex-A76 and 6x2.0 GHz Cortex-A55)\nMali-G76 MC4</string>
+    <string name="content_specs_camera">
+Main Camera (64 MP, 8 MP, 2MP, 2 MP)\nSelfie Camera 13 MP\nLED flash, HDR, Panorama</string>
+    <string name="stock">Stock hanya 3 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Zhuliana Melva Rey</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$213</string>
+    <string name="dummy_photos">6 photos</string>
+    <string name="customer_service">Customer Service</string>
+    <string name="processor">Processor</string>
+    <string name="camera">Camera</string>
+    <string name="success">Produk telah berhasil dibeli</string>
+</resources>
